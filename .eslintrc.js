@@ -16,7 +16,8 @@ module.exports = {
     },
     "plugins": [
         "@typescript-eslint",
-        "react"
+        "react",
+        "next"
     ],
     "rules": {
     }
